@@ -203,6 +203,8 @@ Possible improvements for this project include:
 
 ---
 
+## Dashboard Preview
+![Dashboard](Dashboard_preview.png)
 ⭐ **If you found this project useful, consider giving it a star!**
 
 This project is part of my **Data Analyst portfolio showcasing EDA, data cleaning, and Excel dashboard development.**
