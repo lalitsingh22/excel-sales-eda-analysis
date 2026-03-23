@@ -173,9 +173,6 @@ cookies-sales-eda-analysis
 │   ├── CookieCompanyRawData.xlsx
 │   └── EDA of Cookies Data.xlsx
 │
-├── Dashboard
-│   └── Excel_Dashboard.xlsx
-│
 ├── Images
 │   └── dashboard_preview.png
 │
